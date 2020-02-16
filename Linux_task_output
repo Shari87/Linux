@@ -1,0 +1,9 @@
+Sample output of one liner command used in conjunction with "sudo"
+
+4 dpkg
+2 snap
+1 rm
+1 pm-hibernate
+1 nano
+1 apt
+
